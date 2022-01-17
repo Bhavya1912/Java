@@ -50,16 +50,5 @@ public class Main {
             System.out.println("can buy pen");
         }
         
-
-
-
-
-
-
-
     }
 }
-
-
-
-
