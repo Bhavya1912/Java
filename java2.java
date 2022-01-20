@@ -49,6 +49,6 @@ public class Main {
         {
             System.out.println("can buy pen");
         }
-        
+        System.out.print
     }
 }
