@@ -50,6 +50,7 @@ public class Main {
         System.out.println(finalmarks [1][1]);
         //casting
         double price=100;
+        
         double fprice=price+18;
         System.out.println(fprice);
 
